@@ -1,7 +1,7 @@
 # PC Building Simulator Manual APWorld
 This manual works with any new save game. It expects the use of two mods, installed using BepInEx (see an Archipelago guide, such as the one for TUNIC for instance, for more on installing BepInEx), which are provided by NexusMods:
 - Seba Fixes: https://www.nexusmods.com/pcbuildingsimulator/mods/144?tab=description
-- Configuration Manager (Included with Seba Fixes)
+- Configuration Manager: https://github.com/BepInEx/BepInEx.ConfigurationManager/releases
 ## Instructions
 1. After installing the mods, begin a new game (I haven't tested with Hard mode, but I imagine that should probably work too).
 2. (Optional) Open the configuration manager with F1, go into "Seba Fixes 1.16.0", and disable "More Daily Jobs" (unless you purposefully want more of them, more power to you).
