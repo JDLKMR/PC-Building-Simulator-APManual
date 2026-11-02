@@ -1,0 +1,458 @@
+[
+  {
+    "count": 1,
+    "name": "CPU",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Air Cooler",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Water Cooler",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Motherboard",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "RAM",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "GPU",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HDD",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SSD",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "PSU",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Colored Cables",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Case",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Case Fan",
+    "category": [
+      "Components"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thermal Paste",
+    "category": [
+      "Tools"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "USB Drive",
+    "category": [
+      "Tools"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Compressed Air",
+    "category": [
+      "Tools"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Workbench",
+    "category": [
+      "Tools"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "PC Storage Cupboard",
+    "category": [
+      "Tools"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Email",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "System Info",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shop",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "3DMark",
+    "category": [
+      "Software"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Will It Run?",
+    "category": [
+      "Software"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Virus Scanner",
+    "category": [
+      "Software"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "PC Bay",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Lighting",
+    "category": [
+      "Software"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Part Ranking",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Music Player",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "GPU Tuner",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "OCCT",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Custom Water Cooling Shop",
+    "category": [
+      "Software"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bongle",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Market",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Select Wallpaper",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Peripheral Shop",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cloud Notes",
+    "category": [
+      "Software"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Auto-Screw Tool",
+    "category": [
+      "Tool Upgrade Options"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Auto-Connect Tool",
+    "category": [
+      "Tool Upgrade Options"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Auto-Standoff Tool",
+    "category": [
+      "Tool Upgrade Options"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Faster Installation Upgrade",
+    "category": [
+      "Tool Upgrade Options"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Auto-Cable Tool",
+    "category": [
+      "Tool Upgrade Options"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Quick-Cable Tool",
+    "category": [
+      "Tool Upgrade Options"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Quick-Screw Tool",
+    "category": [
+      "Tool Upgrade Options"
+    ],
+    "useful": true
+  },
+  {
+    "count": "6",
+    "name": "Company Share",
+    "category": [
+      "Company Share"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "5",
+    "name": "Thermal Toothpaste",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Extra Standoff Screw",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "HDMI Cap",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Bent SATA Cable",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Stripped Screw",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Broken W Key",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Ancient OS Installation Disc",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Alt Email Account",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Shop Prime Account",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Gaming Chair",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Anti-Static Bag",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Grounding Strap",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "14",
+    "name": "Zip Tie",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Greg the Green Cable",
+    "category": [
+      "Junk"
+    ],
+    "filler": true
+  }
+]

@@ -1,0 +1,1057 @@
+[
+  {
+    "category": [
+      "01 - Start A"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner|",
+    "name": "START_A (SCAN) - g.aubin"
+  },
+  {
+    "name": "START_B_1 (SCAN) - ShermanDental",
+    "category": [
+      "02 - Start 1"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |Compressed Air|"
+  },
+  {
+    "name": "START_B_2 (FIX) - queen_britney",
+    "category": [
+      "03 - Start 2"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |GPU|"
+  },
+  {
+    "name": "START_B_3 (UPGRADE) - g.walters",
+    "category": [
+      "04 - Start 3 + Thermal Paste"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |HDD|"
+  },
+  {
+    "name": "START_C_1 (FIX) - Audry1945",
+    "category": [
+      "02 - Start 1"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |Compressed Air| AND |Air Cooler|"
+  },
+  {
+    "name": "START_C_2 (SCAN) - therealharryosman",
+    "category": [
+      "03 - Start 2"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |GPU|"
+  },
+  {
+    "name": "START_C_3 (UPGRADE) - GSXGEOFF",
+    "category": [
+      "04 - Start 3 + Thermal Paste"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |HDD| AND |RAM|"
+  },
+  {
+    "name": "START_D_1 (FIX) - woodward",
+    "category": [
+      "02 - Start 1"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |Compressed Air| AND |Air Cooler| AND |Motherboard| AND |Thermal Paste|"
+  },
+  {
+    "name": "START_D_2 (UPGRADE) - d.darmian",
+    "category": [
+      "03 - Start 2"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |GPU| AND |PSU| AND |3DMark|"
+  },
+  {
+    "name": "START_D_3 (FIX) - thedoctorsays76",
+    "category": [
+      "04 - Start 3 + Thermal Paste"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |HDD| AND |RAM| AND |Thermal Paste| AND |3DMark|"
+  },
+  {
+    "name": "FILMBUFF_1 (UPGRADE) - blakepatterberg48",
+    "category": [
+      "05 - Film Buff"
+    ],
+    "requires": "|HDD|"
+  },
+  {
+    "name": "FILMBUFF_2 (SCAN) - blakepatterberg48",
+    "category": [
+      "05 - Film Buff"
+    ],
+    "requires": "|HDD| AND |USB Drive:1| AND |Virus Scanner|"
+  },
+  {
+    "name": "FILMBUFF_3 (FIX) - blakepatterberg48",
+    "category": [
+      "05 - Film Buff"
+    ],
+    "requires": "|HDD| AND |USB Drive:1| AND |Virus Scanner|"
+  },
+  {
+    "name": "FILMBUFF_6 (UPGRADE) - blake",
+    "category": [
+      "05 - Film Buff"
+    ],
+    "requires": "|HDD| AND |USB Drive:1| AND |Virus Scanner|"
+  },
+  {
+    "name": "FILMBUFF_7 (FIX) - blake",
+    "category": [
+      "05 - Film Buff"
+    ],
+    "requires": "|HDD| AND |USB Drive:1| AND |Virus Scanner| AND |PSU| AND |CPU| AND |Thermal Paste|"
+  },
+  {
+    "name": "INTRO_WILLITRUN (UPGRADE) - sailingmyboat",
+    "category": [
+      "06 - WIR? & Diagnose Intros + Writer"
+    ],
+    "requires": "|USB Drive:1| AND |Will It Run?| AND |GPU|"
+  },
+  {
+    "name": "INTRO_DIAGNOSE (DIAGNOSE) - realcheez",
+    "category": [
+      "06 - WIR? & Diagnose Intros + Writer"
+    ],
+    "requires": "|USB Drive:1| AND |Will It Run?| AND |GPU| AND |CPU| AND |Thermal Paste|"
+  },
+  {
+    "name": "WRITER_1 (UPGRADE) - brucevancleefe",
+    "category": [
+      "06 - WIR? & Diagnose Intros + Writer"
+    ],
+    "requires": "|USB Drive:1| AND |Will It Run?| AND |GPU| AND |CPU| AND |Thermal Paste| AND |RAM|"
+  },
+  {
+    "name": "WRITER_2 (UPGRADE) - brucevancleefe",
+    "category": [
+      "06 - WIR? & Diagnose Intros + Writer"
+    ],
+    "requires": "|USB Drive:1| AND |Will It Run?| AND |GPU| AND |CPU| AND |Thermal Paste| AND |RAM| AND |HDD|"
+  },
+  {
+    "name": "WRITER_3 (DIAGNOSE) - brucevancleefe",
+    "category": [
+      "06 - WIR? & Diagnose Intros + Writer"
+    ],
+    "requires": "|USB Drive:1| AND |Will It Run?| AND |GPU| AND |CPU| AND |Thermal Paste| AND |RAM| AND |HDD| AND |PSU|"
+  },
+  {
+    "name": "WRITER_4 (FIX) - brucevancleefe",
+    "category": [
+      "06 - WIR? & Diagnose Intros + Writer"
+    ],
+    "requires": "|USB Drive:1| AND |Will It Run?| AND |GPU| AND |CPU| AND |Thermal Paste| AND |RAM| AND |HDD| AND |PSU|"
+  },
+  {
+    "name": "WRITER_5 (DIAGNOSE) - brucevancleefe",
+    "category": [
+      "06 - WIR? & Diagnose Intros + Writer"
+    ],
+    "requires": "|USB Drive:1| AND |Will It Run?| AND |GPU| AND |CPU| AND |Thermal Paste| AND |RAM| AND |HDD| AND |PSU| AND |Motherboard|"
+  },
+  {
+    "name": "INTRO_BUILD (BUILD) - orient_express64",
+    "region": "Build",
+    "category": [
+      "07 - Build Intro + Scammer"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "SPAMMER_1 (FIX) - test",
+    "category": [
+      "07 - Build Intro + Scammer"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |USB Drive:1| AND |Motherboard| AND |PSU| AND |GPU| AND |RAM| AND |Case| AND (|Air Cooler| OR |Water Cooler|) AND |HDD|"
+  },
+  {
+    "name": "SPAMMER_2 (BUILD) - test",
+    "category": [
+      "07 - Build Intro + Scammer"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |USB Drive:1| AND |Motherboard| AND |PSU| AND |GPU| AND |RAM| AND |Case| AND (|Air Cooler| OR |Water Cooler|) AND |HDD| AND |3DMark|"
+  },
+  {
+    "name": "SPAMMER_3 (UPGRADE) - duarte",
+    "category": [
+      "07 - Build Intro + Scammer"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |USB Drive:1| AND |Motherboard| AND |PSU| AND |GPU| AND |RAM| AND |Case| AND (|Air Cooler| OR |Water Cooler|) AND |HDD| AND |3DMark| AND |Will It Run?|"
+  },
+  {
+    "name": "THERMAL_PASTE_A (DIAGNOSE) - drdoctorwrite77",
+    "category": [
+      "04 - Start 3 + Thermal Paste"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |HDD| AND |RAM| AND |Thermal Paste| AND |3DMark|"
+  },
+  {
+    "name": "THERMAL_PASTE_B (DIAGNOSE) - imadoctor75",
+    "category": [
+      "04 - Start 3 + Thermal Paste"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |HDD| AND |RAM| AND |Thermal Paste| AND |3DMark|"
+  },
+  {
+    "name": "THERMAL_PASTE_C (DIAGNOSE) - nvidiaftw02",
+    "category": [
+      "04 - Start 3 + Thermal Paste"
+    ],
+    "requires": "|USB Drive:1| AND |Virus Scanner| AND |HDD| AND |RAM| AND |Thermal Paste| AND |3DMark|"
+  },
+  {
+    "name": "DRUID_2 (DIAGNOSE) - hazel_leaf95",
+    "category": [
+      "08 - Hazel"
+    ],
+    "requires": "|Air Cooler| AND |CPU| AND |Thermal Paste|"
+  },
+  {
+    "name": "DRUID_3 (SCAN) - hazel_leaf95",
+    "category": [
+      "08 - Hazel"
+    ],
+    "requires": "|Air Cooler| AND |CPU| AND |Thermal Paste| AND |USB Drive:1| AND |Virus Scanner|"
+  },
+  {
+    "name": "PPG_1 (BUILD) - oliolioli22",
+    "region": "Build",
+    "category": [
+      "09 - Oli"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "PPG_2 (UPGRADE) - oliolioli22",
+    "region": "Build",
+    "category": [
+      "09 - Oli"
+    ],
+    "requires": "|Will It Run?| AND |3DMark|"
+  },
+  {
+    "name": "PPG_3 (UPGRADE) - oliolioli22",
+    "region": "Build",
+    "category": [
+      "09 - Oli"
+    ],
+    "requires": "|Will It Run?| AND |3DMark|"
+  },
+  {
+    "name": "PPG_4 (FIX) - oliolioli22",
+    "region": "Build",
+    "category": [
+      "09 - Oli"
+    ],
+    "requires": "|Will It Run?| AND |3DMark|"
+  },
+  {
+    "name": "PPG_5 (BUILD) - azurearrows",
+    "region": "Build",
+    "category": [
+      "09 - Oli"
+    ],
+    "requires": "|Will It Run?| AND |3DMark|"
+  },
+  {
+    "name": "LARP_1 (BUILD) - axemaster93",
+    "region": "Build",
+    "category": [
+      "10 - LARPer"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "LARP_2 (UPGRADE) - axemaster93",
+    "region": "Build",
+    "category": [
+      "10 - LARPer"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "LARP_3 (DIAGNOSE) - axemaster93",
+    "region": "Build",
+    "category": [
+      "10 - LARPer"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "BLOGGER_1 (BUILD) - jameson",
+    "region": "Build",
+    "category": [
+      "11 - Blogger"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "BLOGGER_2 (UPGRADE) - jameson",
+    "region": "Build",
+    "category": [
+      "11 - Blogger"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "BLOGGER_3 (BUILD) - jameson",
+    "region": "Build",
+    "category": [
+      "11 - Blogger"
+    ],
+    "requires": "|Will It Run?| AND |3DMark|"
+  },
+  {
+    "region": "Build",
+    "name": "BLOGGER_4 (FIX) - jameson",
+    "category": [
+      "11 - Blogger"
+    ],
+    "requires": "|Will It Run?| AND |3DMark|"
+  },
+  {
+    "name": "GRANDPARENT_1 (BUILD) - jean.smith6837",
+    "region": "Build",
+    "category": [
+      "12 - Grandma"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "GRANDPARENT_2 (UPGRADE) - jean.smith6837",
+    "region": "Build",
+    "category": [
+      "12 - Grandma"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "GRANDPARENT_3 (UPGRADE) - jean.smith6837",
+    "region": "Build",
+    "category": [
+      "12 - Grandma"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "GRANDPARENT_4 (UPGRADE) - jean.smith6837",
+    "region": "Build",
+    "category": [
+      "12 - Grandma"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "GRANDPARENT_5 (SCAN) - jean.smith6837",
+    "region": "Build",
+    "category": [
+      "12 - Grandma"
+    ],
+    "requires": "|Virus Scanner|"
+  },
+  {
+    "name": "STREAMER_2 (BUILD) - scottyB",
+    "region": "Build",
+    "category": [
+      "13 - Streamer"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "STREAMER_3 (FIX) - scottyB",
+    "region": "Build",
+    "category": [
+      "13 - Streamer"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "STREAMER_4 (BUILD) - scottyB",
+    "region": "Build",
+    "category": [
+      "13 - Streamer"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "STREAMER_6 (SCAN) - scottyB",
+    "region": "Build",
+    "category": [
+      "13 - Streamer"
+    ],
+    "requires": "|Will It Run?| AND |Virus Scanner|"
+  },
+  {
+    "name": "STREAMER_7 (UPGRADE) - scottyB",
+    "region": "Build",
+    "category": [
+      "13 - Streamer"
+    ],
+    "requires": "|Will It Run?| AND |Virus Scanner|"
+  },
+  {
+    "name": "PHYSICIST_1 (BUILD) - giovanna",
+    "region": "Build",
+    "category": [
+      "14 - Physicist"
+    ],
+    "requires": "|3DMark|"
+  },
+  {
+    "name": "PHYSICIST_3 (UPGRADE) - giovanna",
+    "region": "Build",
+    "category": [
+      "14 - Physicist"
+    ],
+    "requires": "|3DMark|"
+  },
+  {
+    "name": "PHYSICIST_4 (BUILD) - giovanna",
+    "region": "Build",
+    "category": [
+      "14 - Physicist"
+    ],
+    "requires": "|3DMark|"
+  },
+  {
+    "name": "PHYSICIST_6 (DIAGNOSE) - giovanna",
+    "region": "Build",
+    "category": [
+      "14 - Physicist"
+    ],
+    "requires": "|3DMark|"
+  },
+  {
+    "name": "PHYSICIST_8 (BUILD) - giovanna",
+    "region": "Build",
+    "category": [
+      "14 - Physicist"
+    ],
+    "requires": "|3DMark|"
+  },
+  {
+    "name": "STUART_1 (UPGRADE) - stu",
+    "region": "Build",
+    "category": [
+      "15 - Stuart"
+    ],
+    "requires": "|Case Fan| AND |Lighting|"
+  },
+  {
+    "name": "STUART_2 (UPGRADE) - stu",
+    "region": "Build",
+    "category": [
+      "15 - Stuart"
+    ],
+    "requires": "|Case Fan| AND |Lighting| AND |Will It Run?|"
+  },
+  {
+    "name": "STUART_3 (UPGRADE) - stu",
+    "region": "Build",
+    "category": [
+      "15 - Stuart"
+    ],
+    "requires": "|Case Fan| AND |Lighting| AND |Will It Run?| AND |3DMark|"
+  },
+  {
+    "name": "FRANTIC_1 (BUILD) - dynabeard",
+    "region": "Build",
+    "category": [
+      "16 - Dynabeard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "FRANTIC_3 (BUILD) - dynabeard",
+    "region": "Build",
+    "category": [
+      "16 - Dynabeard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "FRANTIC_5 (UPGRADE) - dynabeard",
+    "region": "Build",
+    "category": [
+      "16 - Dynabeard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "FRANTIC_7 (DIAGNOSE) - dynabeard",
+    "region": "Build",
+    "category": [
+      "16 - Dynabeard"
+    ],
+    "requires": "|Case Fan|"
+  },
+  {
+    "name": "FLIGHTSIM_1 (UPGRADE) - CaptainBen",
+    "category": [
+      "17 - Flight Simulator"
+    ],
+    "requires": "|GPU| AND |USB Drive:1| AND |Will It Run?| AND |3DMark|"
+  },
+  {
+    "name": "FLIGHTSIM_2 (BUILD) - CaptainBen",
+    "region": "Build",
+    "category": [
+      "17 - Flight Simulator"
+    ],
+    "requires": "|Will It Run?| AND |3DMark|"
+  },
+  {
+    "name": "FLIGHTSIM_3 (UPGRADE) - CaptainBen",
+    "category": [
+      "17 - Flight Simulator"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |Motherboard| AND |GPU| AND |HDD| AND |PSU| AND |RAM| AND (|Air Cooler| OR |Water Cooler|) AND |USB Drive:1| AND |Will It Run?| AND |3DMark|"
+  },
+  {
+    "name": "FLIGHTSIM_5 (SCAN) - CaptainBen",
+    "category": [
+      "17 - Flight Simulator"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |Motherboard| AND |GPU| AND |HDD| AND |PSU| AND |RAM| AND (|Air Cooler| OR |Water Cooler|) AND |USB Drive:1| AND |Will It Run?| AND |3DMark| AND |Virus Scanner|"
+  },
+  {
+    "name": "MANAGER_1 (BUILD) - sdaldry",
+    "region": "Build",
+    "category": [
+      "18 - Manager"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "MANAGER_2 (FIX) - sdaldry",
+    "region": "Build",
+    "category": [
+      "18 - Manager"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "MANAGER_4 (SCAN) - sdaldry",
+    "region": "Build",
+    "category": [
+      "18 - Manager"
+    ],
+    "requires": "|Virus Scanner|"
+  },
+  {
+    "name": "MANAGER_5 (FIX) - sdaldry",
+    "category": [
+      "18 - Manager"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |Motherboard| AND |GPU| AND |HDD| AND |PSU| AND |RAM| AND (|Air Cooler| OR |Water Cooler|) AND |USB Drive:1| AND |Virus Scanner|"
+  },
+  {
+    "name": "MANAGER_7 (BUILD) - sdaldry",
+    "category": [
+      "18 - Manager"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |Motherboard| AND |GPU| AND |HDD| AND |PSU| AND |RAM| AND (|Air Cooler| OR |Water Cooler|) AND |USB Drive:1| AND |Virus Scanner| AND |Lighting|"
+  },
+  {
+    "name": "INDECISIVE_1 (FIX) - gus",
+    "category": [
+      "19 - Law Student"
+    ],
+    "requires": "|Motherboard| AND |Thermal Paste| AND |PSU|"
+  },
+  {
+    "name": "INDECISIVE_3 (UPGRADE) - gus",
+    "category": [
+      "19 - Law Student"
+    ],
+    "requires": "|Motherboard| AND |Thermal Paste| AND |PSU| AND |RAM|"
+  },
+  {
+    "name": "INDECISIVE_5 (BUILD) - gus",
+    "region": "Build",
+    "category": [
+      "19 - Law Student"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "INDECISIVE_6 (UPGRADE) - gus",
+    "region": "Build",
+    "category": [
+      "19 - Law Student"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "INDECISIVE_7 (UPGRADE) - gus",
+    "region": "Build",
+    "category": [
+      "19 - Law Student"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "INDECISIVE_9 (BUILD) - gus",
+    "region": "Build",
+    "category": [
+      "19 - Law Student"
+    ],
+    "requires": "|Will It Run?| AND |3DMark|"
+  },
+  {
+    "name": "PARENT_1 (BUILD) - j.choudry",
+    "region": "Build",
+    "category": [
+      "20 - Dad"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "PARENT_2 (FIX) - j.choudry",
+    "region": "Build",
+    "category": [
+      "20 - Dad"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "PARENT_3 (FIX) - j.choudry",
+    "region": "Build",
+    "category": [
+      "20 - Dad"
+    ],
+    "requires": "|Will It Run?|"
+  },
+  {
+    "name": "PARENT_4 (DIAGNOSE) - j.choudry",
+    "region": "Build",
+    "category": [
+      "20 - Dad"
+    ],
+    "requires": "|Will It Run?| AND |Virus Scanner|"
+  },
+  {
+    "name": "PARENT_5 (BUILD) - j.choudry",
+    "region": "Build",
+    "category": [
+      "20 - Dad"
+    ],
+    "requires": "|Will It Run?| AND |Virus Scanner| AND |3DMark|"
+  },
+  {
+    "name": "SANTA_1 (UPGRADE) - kris",
+    "category": [
+      "21 - Santa"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |RAM| AND |GPU| AND |USB Drive:1| AND |Will It Run?| AND |3DMark| AND |PSU|"
+  },
+  {
+    "name": "SANTA_2 (DIAGNOSE) - kris",
+    "category": [
+      "21 - Santa"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |RAM| AND |GPU| AND |USB Drive:1| AND |Will It Run?| AND |3DMark| AND |PSU|"
+  },
+  {
+    "name": "SANTA_4 (BUILD) - kris",
+    "region": "Build",
+    "category": [
+      "21 - Santa"
+    ],
+    "requires": "|Will It Run?| AND |3DMark| AND |Lighting|"
+  },
+  {
+    "name": "CURSED_1 (DIAGNOSE) - robernator445",
+    "category": [
+      "22 - Robernator's Curse"
+    ],
+    "requires": "|PSU| AND |GPU|"
+  },
+  {
+    "name": "CURSED_2 (SCAN) - robernator445",
+    "category": [
+      "22 - Robernator's Curse"
+    ],
+    "requires": "|PSU| AND |GPU| AND |USB Drive:1| AND |Virus Scanner|"
+  },
+  {
+    "name": "CURSED_3 (FIX) - robernator445",
+    "category": [
+      "22 - Robernator's Curse"
+    ],
+    "requires": "|PSU| AND |GPU| AND |USB Drive:1| AND |Virus Scanner| AND |HDD|"
+  },
+  {
+    "name": "CURSED_4 (FIX) - robernator445",
+    "category": [
+      "22 - Robernator's Curse"
+    ],
+    "requires": "|PSU| AND |GPU| AND |USB Drive:1| AND |Virus Scanner| AND |HDD| AND |Motherboard| AND |Thermal Paste|"
+  },
+  {
+    "name": "CURSED_6 (DIAGNOSE) - robernator445",
+    "category": [
+      "22 - Robernator's Curse"
+    ],
+    "requires": "|PSU| AND |GPU| AND |USB Drive:1| AND |Virus Scanner| AND |HDD| AND |Motherboard| AND |Thermal Paste| AND |CPU|"
+  },
+  {
+    "name": "QUEEN_1 (BUILD) - maj",
+    "category": [
+      "23 - Queen"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |Motherboard| AND |PSU| AND |GPU| AND |RAM| AND (|HDD| OR |SSD|) AND |Air Cooler| AND |Case Fan| AND |3DMark| AND |Lighting|"
+  },
+  {
+    "name": "QUEEN_2 (FIX) - maj",
+    "category": [
+      "23 - Queen"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |Motherboard| AND |PSU| AND |GPU| AND |RAM| AND (|HDD| OR |SSD|) AND |Air Cooler| AND |Case Fan| AND |3DMark| AND |Lighting|"
+  },
+  {
+    "name": "QUEEN_4 (FIX) - maj",
+    "category": [
+      "23 - Queen"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |Motherboard| AND |PSU| AND |GPU| AND |RAM| AND (|HDD| OR |SSD|) AND |Air Cooler| AND |Case Fan| AND |3DMark| AND |Lighting|"
+  },
+  {
+    "name": "QUEEN_5 (BUILD) - maj",
+    "category": [
+      "23 - Queen"
+    ],
+    "requires": "|CPU| AND |Thermal Paste| AND |Motherboard| AND |PSU| AND |GPU| AND |RAM| AND (|HDD| OR |SSD|) AND |Air Cooler| AND |Case Fan| AND |3DMark| AND |Lighting| AND |Colored Cables|"
+  },
+  {
+    "name": "CAPTAIN_1 (DIAGNOSE) - jamie.dirk",
+    "category": [
+      "24 - Captain"
+    ],
+    "requires": "|Motherboard| AND |Thermal Paste| AND |PSU|"
+  },
+  {
+    "name": "CAPTAIN_2 (UPGRADE) - jamie.dirk",
+    "category": [
+      "24 - Captain"
+    ],
+    "requires": "|Motherboard| AND |Thermal Paste| AND |PSU| AND |HDD|"
+  },
+  {
+    "name": "CAPTAIN_3 (FIX) - jamie.dirk",
+    "category": [
+      "24 - Captain"
+    ],
+    "requires": "|Motherboard| AND |Thermal Paste| AND |PSU| AND |HDD| AND |Air Cooler|"
+  },
+  {
+    "name": "CAPTAIN_5 (BUILD) - jamie.dirk",
+    "category": [
+      "24 - Captain"
+    ],
+    "requires": "|Motherboard| AND |Thermal Paste| AND |PSU| AND (|HDD| OR |SSD|) AND |Air Cooler| AND |CPU| AND |GPU| AND |RAM| AND |Water Cooler| AND |USB Drive:1| AND |3DMark|"
+  },
+  {
+    "name": "CAPTAIN_6 (UPGRADE) - jamie.dirk",
+    "category": [
+      "24 - Captain"
+    ],
+    "requires": "|Motherboard| AND |Thermal Paste| AND |PSU| AND (|HDD| OR |SSD|) AND |Air Cooler| AND |CPU| AND |GPU| AND |RAM| AND |Water Cooler| AND |USB Drive:1| AND |3DMark|"
+  },
+  {
+    "name": "DETECTIVE_1 (UPGRADE) - steve.shovel",
+    "category": [
+      "25 - Detective"
+    ],
+    "requires": "|GPU| AND |USB Drive:1| AND |3DMark|",
+	"sort-key": "DETECTIVE_01"
+  },
+  {
+    "name": "DETECTIVE_2 (DIAGNOSE) - steve.shovel",
+    "category": [
+      "25 - Detective"
+    ],
+    "requires": "|GPU| AND |USB Drive:1| AND |3DMark| AND |Motherboard| AND |Thermal Paste|",
+	"sort-key": "DETECTIVE_02"
+  },
+  {
+    "name": "DETECTIVE_3 (BUILD) - steve.shovel",
+    "category": [
+      "25 - Detective"
+    ],
+    "requires": "|GPU| AND |USB Drive:1| AND |3DMark| AND |Motherboard| AND |Thermal Paste| AND |CPU| AND |RAM| AND |PSU| AND (|HDD| OR |SSD|) AND |Water Cooler|",
+	"sort-key": "DETECTIVE_03"
+  },
+  {
+    "name": "DETECTIVE_5 (UPGRADE) - steve.shovel",
+    "category": [
+      "25 - Detective"
+    ],
+    "requires": "|GPU| AND |USB Drive:1| AND |3DMark| AND |Motherboard| AND |Thermal Paste| AND |CPU| AND |RAM| AND |PSU| AND |HDD| AND |Water Cooler|",
+	"sort-key": "DETECTIVE_05"
+  },
+  {
+    "name": "DETECTIVE_6 (DIAGNOSE) - steve.shovel",
+    "category": [
+      "25 - Detective"
+    ],
+    "requires": "|GPU| AND |USB Drive:1| AND |3DMark| AND |Motherboard| AND |Thermal Paste| AND |CPU| AND |RAM| AND |PSU| AND |HDD| AND |Water Cooler|",
+	"sort-key": "DETECTIVE_06"
+  },
+  {
+    "name": "DETECTIVE_8 (UPGRADE) - steve.shovel",
+    "category": [
+      "25 - Detective"
+    ],
+    "requires": "|GPU| AND |USB Drive:1| AND |3DMark| AND |Motherboard| AND |Thermal Paste| AND |CPU| AND |RAM| AND |PSU| AND |HDD| AND |Water Cooler|",
+	"sort-key": "DETECTIVE_08"
+  },
+  {
+    "name": "DETECTIVE_10 (SCAN) - steve.shovel",
+    "category": [
+      "25 - Detective"
+    ],
+    "requires": "|GPU| AND |USB Drive:1| AND |3DMark| AND |Motherboard| AND |Thermal Paste| AND |CPU| AND |RAM| AND |PSU| AND |HDD| AND |Water Cooler| AND |Virus Scanner| AND |Compressed Air|",
+	"sort-key": "DETECTIVE_10"
+  },
+  {
+    "name": "DETECTIVE_11 (FIX) - steve.shovel",
+    "category": [
+      "25 - Detective"
+    ],
+    "requires": "|GPU| AND |USB Drive:1| AND |3DMark| AND |Motherboard| AND |Thermal Paste| AND |CPU| AND |RAM| AND |PSU| AND |HDD| AND |Water Cooler| AND |Virus Scanner| AND |Compressed Air|",
+	"sort-key": "DETECTIVE_11"
+  },
+  {
+    "name": "MINER_1 (UPGRADE) - mona",
+    "category": [
+      "26 - Crypto Miner"
+    ],
+    "requires": "|Case Fan|"
+  },
+  {
+    "name": "MINER_3 (UPGRADE) - mona",
+    "category": [
+      "26 - Crypto Miner"
+    ],
+    "requires": "|Case Fan| AND |GPU|"
+  },
+  {
+    "name": "MINER_5 (FIX) - mona",
+    "category": [
+      "26 - Crypto Miner"
+    ],
+    "requires": "|Case Fan| AND |GPU| AND |Motherboard| AND |Thermal Paste| AND |Air Cooler|"
+  },
+  {
+    "name": "MINER_6 (BUILD) - mona",
+    "category": [
+      "26 - Crypto Miner"
+    ],
+    "requires": "|Case Fan| AND |GPU| AND |Motherboard| AND |Thermal Paste| AND |Air Cooler| AND |CPU| AND |USB Drive:1| AND |PSU| AND |RAM| AND |Case| AND (|HDD| OR |SSD|) AND |3DMark|"
+  },
+  {
+    "name": "AI_1 (FIX) - mainframe",
+    "category": [
+      "27 - AI"
+    ],
+    "requires": "|RAM| AND |CPU| AND |Thermal Paste| AND |PSU|"
+  },
+  {
+    "name": "AI_2 (UPGRADE) - mainframe",
+    "category": [
+      "27 - AI"
+    ],
+    "requires": "|RAM| AND |CPU| AND |Thermal Paste| AND |PSU| AND |Case Fan| AND |USB Drive:1| AND |Lighting| AND |Virus Scanner|"
+  },
+  {
+    "name": "AI_3 (FIX) - mainframe",
+    "category": [
+      "27 - AI"
+    ],
+    "requires": "|RAM| AND |CPU| AND |Thermal Paste| AND |PSU| AND |Case Fan| AND |USB Drive:1| AND |Lighting| AND |Virus Scanner| AND |HDD| AND |Air Cooler|"
+  },
+  {
+    "name": "AI_4 (UPGRADE) - mainframe",
+    "category": [
+      "27 - AI"
+    ],
+    "requires": "|RAM| AND |CPU| AND |Thermal Paste| AND |PSU| AND |Case Fan| AND |USB Drive:1| AND |Lighting| AND |Virus Scanner| AND |HDD| AND |Air Cooler| AND |GPU| AND |3DMark|"
+  },
+  {
+    "name": "AI_5 (UPGRADE) - mainframe",
+    "category": [
+      "27 - AI"
+    ],
+    "requires": "|RAM| AND |CPU| AND |Thermal Paste| AND |PSU| AND |Case Fan| AND |USB Drive:1| AND |Lighting| AND |Virus Scanner| AND |HDD| AND |Air Cooler| AND |GPU| AND |3DMark|"
+  },
+  {
+    "name": "AI_6 (UPGRADE) - mainframe",
+    "category": [
+      "27 - AI"
+    ],
+    "requires": "|RAM| AND |CPU| AND |Thermal Paste| AND |PSU| AND |Case Fan| AND |USB Drive:1| AND |Lighting| AND |Virus Scanner| AND |HDD| AND |Air Cooler| AND |GPU| AND |3DMark|"
+  },
+  {
+    "name": "AI_7 (UPGRADE) - mainframe",
+    "category": [
+      "27 - AI"
+    ],
+    "requires": "|RAM| AND |CPU| AND |Thermal Paste| AND |PSU| AND |Case Fan| AND |USB Drive:1| AND |Lighting| AND |Virus Scanner| AND |HDD| AND |Air Cooler| AND |GPU| AND |3DMark|"
+  },
+  {
+    "name": "LIBRARIAN_1 (DIAGNOSE) - ilovedeweydecimal",
+    "category": [
+      "28 - Librarian"
+    ],
+    "requires": "|GPU| AND |PSU|"
+  },
+  {
+    "name": "LIBRARIAN_3 (DIAGNOSE) - ilovedeweydecimal",
+    "category": [
+      "28 - Librarian"
+    ],
+    "requires": "|GPU| AND |PSU| AND |Compressed Air| AND |HDD| AND |USB Drive:1| AND |CPU| AND |Thermal Paste|"
+  },
+  {
+    "name": "LIBRARIAN_4 (SCAN) - ilovedeweydecimal",
+    "category": [
+      "28 - Librarian"
+    ],
+    "requires": "|GPU| AND |PSU| AND |Compressed Air| AND |HDD| AND |USB Drive:1| AND |CPU| AND |Thermal Paste| AND |Virus Scanner|"
+  },
+  {
+    "name": "LIBRARIAN_5 (DIAGNOSE) - ilovedeweydecimal",
+    "category": [
+      "28 - Librarian"
+    ],
+    "requires": "|GPU| AND |PSU| AND |Compressed Air| AND |HDD| AND |USB Drive:1| AND |CPU| AND |Thermal Paste| AND |Virus Scanner| AND |Air Cooler| AND |RAM| AND |Case Fan|"
+  },
+  {
+    "name": "LIBRARIAN_7 (UPGRADE) - ilovedeweydecimal",
+    "category": [
+      "28 - Librarian"
+    ],
+    "requires": "|GPU| AND |PSU| AND |Compressed Air| AND |HDD| AND |USB Drive:1| AND |CPU| AND |Thermal Paste| AND |Virus Scanner| AND |Air Cooler| AND |RAM| AND |Case Fan| AND |Custom Water Cooling Shop| AND |Lighting| AND |Water Cooler|"
+  },
+  {
+    "name": "HARDWARE_1 (UPGRADE) - propat",
+    "category": [
+      "29 - Hardware"
+    ],
+    "requires": "|GPU| AND |Compressed Air|"
+  },
+  {
+    "name": "HARDWARE_2 (UPGRADE) - propat",
+    "category": [
+      "29 - Hardware"
+    ],
+    "requires": "|GPU| AND |Compressed Air| AND |CPU| AND |Thermal Paste| AND |Motherboard| AND |RAM|"
+  },
+  {
+    "name": "HARDWARE_3 (CLEAN) - propat",
+    "category": [
+      "29 - Hardware"
+    ],
+    "requires": "|GPU| AND |Compressed Air| AND |CPU| AND |Thermal Paste| AND |Motherboard| AND |RAM|"
+  },
+  {
+    "name": "HARDWARE_4 (UPGRADE) - propat",
+    "category": [
+      "29 - Hardware"
+    ],
+    "requires": "|GPU| AND |Compressed Air| AND |CPU| AND |Thermal Paste| AND |Motherboard| AND |RAM| AND |SSD|"
+  },
+  {
+    "name": "HARDWARE_5 (UPGRADE) - propat",
+    "category": [
+      "29 - Hardware"
+    ],
+    "requires": "|GPU| AND |Compressed Air| AND |CPU| AND |Thermal Paste| AND |Motherboard| AND |RAM| AND |SSD| AND |Air Cooler| AND |Case Fan| AND |USB Drive:1| AND |Lighting|"
+  },
+  {
+    "name": "RETRO_1 (DIAGNOSE) - thatdosguy89",
+    "category": [
+      "30 - Retro Gamer"
+    ],
+    "requires": "|Compressed Air| AND |USB Drive:1| AND |Virus Scanner| AND |Case Fan|"
+  },
+  {
+    "name": "RETRO_3 (UPGRADE) - thatdosguy89",
+    "category": [
+      "30 - Retro Gamer"
+    ],
+    "requires": "|Compressed Air| AND |USB Drive:1| AND |Virus Scanner| AND |Case Fan| AND |Will It Run?| AND |GPU| AND |CPU| AND |Thermal Paste| AND |RAM|"
+  },
+  {
+    "name": "RETRO_5 (UPGRADE) - thatdosguy89",
+    "category": [
+      "30 - Retro Gamer"
+    ],
+    "requires": "|Compressed Air| AND |USB Drive:1| AND |Virus Scanner| AND |Case Fan| AND |Will It Run?| AND |GPU| AND |CPU| AND |Thermal Paste| AND |RAM| AND |Lighting| AND |PSU|"
+  },
+  {
+    "name": "RETRO_8 (DIAGNOSE) - thatdosguy89",
+    "category": [
+      "30 - Retro Gamer"
+    ],
+    "requires": "|Compressed Air| AND |USB Drive:1| AND |Virus Scanner| AND |Case Fan| AND |Will It Run?| AND |GPU| AND |CPU| AND |Thermal Paste| AND |RAM| AND |Lighting| AND |PSU|"
+  },
+  {
+    "name": "GOBLINS_1 (DIAGNOSE) - gmcon",
+    "category": [
+      "31 - Goblin"
+    ],
+    "requires": "|Motherboard| AND |Thermal Paste| AND |RAM| AND |CPU|"
+  },
+  {
+    "name": "GOBLINS_2 (UPGRADE) - gmcon",
+    "category": [
+      "31 - Goblin"
+    ],
+    "requires": "|Motherboard| AND |Thermal Paste| AND |RAM| AND |CPU| AND |USB Drive:1| AND |3DMark| AND |GPU|"
+  },
+  {
+    "name": "GOBLINS_4 (DIAGNOSE) - gmcon",
+    "category": [
+      "31 - Goblin"
+    ],
+    "requires": "|Motherboard| AND |Thermal Paste| AND |RAM| AND |CPU| AND |USB Drive:1| AND |3DMark| AND |GPU| AND |PSU| AND |Virus Scanner|"
+  },
+  {
+    "name": "GOBLINS_6 (BUILD) - gmcon",
+    "region": "Build",
+    "category": [
+      "31 - Goblin"
+    ],
+    "requires": "|3DMark| AND |Virus Scanner| AND |Lighting|"
+  },
+  {
+    "name": "GOBLINS_7 (FIX) - gmcon",
+    "region": "Build",
+    "category": [
+      "31 - Goblin"
+    ],
+    "requires": "|3DMark| AND |Virus Scanner| AND |Lighting| AND |Compressed Air|"
+  },
+  {
+    "name": "GOBLINS_9 (DIAGNOSE) - gmcon",
+    "region": "Build",
+    "category": [
+      "31 - Goblin"
+    ],
+    "requires": "|3DMark| AND |Virus Scanner| AND |Lighting| AND |Compressed Air|"
+  },
+  {
+    "name": "Full Company Share",
+    "victory": true,
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Company Share:6|"
+  }
+]

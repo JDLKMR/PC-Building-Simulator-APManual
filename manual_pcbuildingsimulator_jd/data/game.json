@@ -1,0 +1,33 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "PCBuildingSimulator",
+  "creator": "JD",
+  "filler_item_name": "Twist Tie",
+  "starting_items": [
+    {
+      "items": [
+        "Case",
+        "Thermal Paste",
+        "Compressed Air",
+        "PC Storage Cupboard",
+        "Email",
+        "Shop",
+        "Virus Scanner",
+        "GPU Tuner",
+        "Cloud Notes"
+      ]
+    },
+    {
+      "items": [
+        "USB Drive"
+      ],
+      "random": 1
+    },
+    {
+      "items": [
+        "Workbench"
+      ],
+      "random": 1
+    }
+  ]
+}

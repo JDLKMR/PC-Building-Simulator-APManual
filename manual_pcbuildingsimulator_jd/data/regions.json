@@ -1,0 +1,7 @@
+{
+  "Build": {
+    "starting": false,
+    "connects_to": [],
+    "requires": "|CPU| AND |Thermal Paste| AND |USB Drive:1| AND |Motherboard| AND |PSU| AND |GPU| AND |RAM| AND |Case| AND (|Air Cooler| OR |Water Cooler|) AND (|HDD| OR |SSD|)"
+  }
+}
